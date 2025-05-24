@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parth Udole</h1>
 <h3 align="center">A passionate backend developer and AI enthusiast</h3>
-<img align = "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align = "right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
 
 - 📫 How to reach me **parthudole@gmail.com**
