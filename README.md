@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Third-Year Computer Engineering Student | Aspiring AI/ML Enthusiast
+  Third-Year Computer Engineering Student | Backend Developer | Aspiring AI/ML Enthusiast
 </h3>
 
 
