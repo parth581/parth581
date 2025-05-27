@@ -1,13 +1,10 @@
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Parth Udole
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=4300&pause=1000&color=00F7CD&background=FFFFFF00&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Parth+Udole" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">
   Third-Year Computer Engineering Student | Backend Developer | Aspiring AI/ML Enthusiast
 </h3>
-
-
-
 <img align="right" alt="coding" width="250" height="150" src="https://camo.githubusercontent.com/f5026c6c06c8d551b7f8d7ce8f61a48dbf4bf91937b6c4a304f013370d288ed6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f343634393436342f6d656469612f63363539306337306135393636613362616633313166303831636464613566662e676966">
 
 - 🌐 I am passionate about **Web Development** using the **MERN** stack.
