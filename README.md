@@ -1,5 +1,5 @@
 
-<h1 align="center" style="font-size: 50px;">
+<h1 align="center" style="font-size: "100px";">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="vertical-align: middle;"/> , I'm Parth Udole
 </h1>
 
