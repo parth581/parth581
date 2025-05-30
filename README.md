@@ -43,9 +43,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation">
-</div>
-
-<div align="center">
   <h3>🤝 Let's Connect and Build Something Amazing Together!</h3>
 </div>
