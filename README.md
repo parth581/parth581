@@ -10,7 +10,7 @@
   </a>
 </h3>
 
-<img align="right" alt="coding" width="290" height="190" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
+<img align="right" alt="coding" width="280" height="170" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif">
 
 - 🌐 I am passionate about **Web Development** using the **MERN** stack.
 - 🤖 I am enthusiastic about exploring **Artificial Intelligence** and **Machine Learning**.
